@@ -70,4 +70,9 @@ Hosting: GitHub Pages / Netlify
 
 ![Planr Homepage](https://purple7.in/wp-content/uploads/2023/06/Corporate-Events5832.jpg)
 
+## 📜 License
+This project is licensed under the MIT License.
+
+## 👥 Team & Contributors
+Sandeep Kumar (Team leader)
 
