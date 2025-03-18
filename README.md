@@ -66,6 +66,8 @@ Database (Future Updates): MongoDB / Firebase
 Hosting: GitHub Pages / Netlify
 
 
-![Planr Homepage](https://purple7.in/wp-content/uploads/2023/06/Corporate-Events5832.jpg))
+## Example of one event that can be used in the website
+
+![Planr Homepage](https://purple7.in/wp-content/uploads/2023/06/Corporate-Events5832.jpg)
 
 
