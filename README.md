@@ -55,8 +55,13 @@ Planr is an event listing website that allows users to discover, create, and sha
 </body>
 </html>
 ```
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
+
 Backend (Future Updates): Node.js, Express.js
+
 Database (Future Updates): MongoDB / Firebase
+
 Hosting: GitHub Pages / Netlify
+
+
