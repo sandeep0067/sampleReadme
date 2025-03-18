@@ -66,3 +66,6 @@ Database (Future Updates): MongoDB / Firebase
 Hosting: GitHub Pages / Netlify
 
 
+![Planr Homepage]([https://yourwebsite.com/planr-homepage.png](https://www.oyorooms.com/blog/wp-content/uploads/2018/02/type-of-event.jpg))
+
+
