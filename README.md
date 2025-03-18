@@ -4,12 +4,11 @@
 ## 📌 Description
 Planr is an event listing website that allows users to discover, create, and share events seamlessly.
 
-## 🎨 Demo Preview (HTML & CSS)
+
 ## Features
 🎉 Event Listings – Browse a variety of events.
 
 📅 Event Management – Create, edit, and delete events.
-
 🔍 Search & Filters – Easily find events by date, category, or location.
 
 📢 User Engagement – RSVP to events and receive notifications.
@@ -17,7 +16,7 @@ Planr is an event listing website that allows users to discover, create, and sha
 📱 Responsive Design – Mobile-friendly and optimized for all devices.
 
 🎨 Customizable UI – Modify colors, themes, and layout styles.
-
+## 🎨 Demo Preview (HTML & CSS)
 ```html
 <!DOCTYPE html>
 <html lang="en">
